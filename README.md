@@ -16,25 +16,41 @@ Enrichment seems to have a positive impact on the well-being of the octopus at S
 
 # Index
 [1. Introduction](#1-introduction)
+
 [1.1 Importance of Aquariums](#11-importance-of-aquariums)
+
 [1.2 Animal Well-Being](#12-animal-well-being)
+
 [1.2.1 Environmental Enrichment](#121-environmental-enrichment)
 
 [2. Materials and Methods](#2-materials-and-methods)
+
 [2.1 Study Subject](#21-study-subject)
+
 [2.2 Habitat Structure](#22-habitat-structure)
+
 [2.3 Enrichment Plan](#23-enrichment-plan)
+
 [2.4 Systematic Observations](#24-systematic-observations)
+
 [2.5 Statistical Analysis](#25-statistical-analysis)
 
 [3. Results](#3-results)
+
 [3.1 Etogram](#31-etogram)
+
 [3.2 “Time budget” of Octopus' behaviour without enrichment](#32-time-budget-of-octopus-behaviour-without-enrichment)
+
 [3.3 Effect of enrichment on the behaviour](#33-effect-of-enrichment-on-the-behaviour)
+
 [3.4 Behavioural Diversity](#34behavioural-diversity)
+
 [3.5 Time of day Effect on the behaviour](#35-time-of-day-effect-on-the-behaviour)
+
 [3.6 Evaluation of the octopus motivation 30 minutes after exposure to enrichment item](#36-evaluation-of-the-octopus-motivation-30-minutes-after-exposure-to-enrichment-item)
+
 [3.7 Item Preference](#37-item-preference)
+
 [3.8 Spacial Distribution](#38-spacial-distribution)
 
 [4. Discussion](#4-discussion)
@@ -93,7 +109,7 @@ Enrichment seems to have a positive impact on the well-being of the octopus at S
 
 |          |          |
 | ---------| -------- |
-|![](Graphs\graph1.PNG)  |  ![](Graphs\graph2.PNG)|
+|![](C:\Users\Manel Maria Pinto\Desktop\Environmental-Enrichment-Octopus\Graphs\graph1.PNG)  |  ![](C:\Users\Manel Maria Pinto\Desktop\Environmental-Enrichment-Octopus\Graphs\graph2.PNG)|
 
 *Octopus' daily activity: A.- average time spent on activity categories without enrichment; B.- Time spent on each activity inside Rest category.*
 
@@ -101,35 +117,35 @@ Enrichment seems to have a positive impact on the well-being of the octopus at S
 
 ### **...TRANSLATION IN PROGRESS...**
 
-![](Graphs\graph3.PNG)
-![](Graphs\graph4.PNG)
+![](C:\Users\Manel Maria Pinto\Desktop\Environmental-Enrichment-Octopus\Graphs\graph3.PNG)
+![](C:\Users\Manel Maria Pinto\Desktop\Environmental-Enrichment-Octopus\Graphs\graph4.PNG)
 *Effect of environmental enrichment in the octopus' behaviour. The graphs represent the time spent on each behavioural category both with and without the enrichment items. The columns represent the average with the standard error is represented on each. Statistical significant differences obtained on the Wilcoxon test are represented by * - p < 0,05; ** - p < 0,01 ; *** - p < 0,001; ns - indicates non-significant difference*
 
 ## 3.4	Behavioural Diversity
 
 ### **...TRANSLATION IN PROGRESS...**
 
-![](Graphs\graph5.PNG)
+![](C:\Users\Manel Maria Pinto\Desktop\Environmental-Enrichment-Octopus\Graphs\graph5.PNG)
 *Octopus' behavioural diversity with and without enrichment (Shannon Index).*
 ## 3.5	Time of day effect on the behaviour
 
 ### **...TRANSLATION IN PROGRESS...**
 
-![](Graphs\graph6.PNG)
+![](C:\Users\Manel Maria Pinto\Desktop\Environmental-Enrichment-Octopus\Graphs\graph6.PNG)
 *Effect of time of day in the octopus' behaviour with and without enrichment. The graphs represent time spent in each behavioural category in the presence and absence of enrichment. The columns represent the average with bars representing standard error. Significant differences obtained in the two-way ANOVA test are represented by * p < 0,05; ** - p < 0,01; *** - p < 0,001. ns - indicates non-significant differences.*
 
 ## 3.6 Evaluation of the octopus' motivation 30 minutes after exposure to enrichment item
 
 ### **...TRANSLATION IN PROGRESS...S**
 
-![](Graphs\graph7.PNG)
+![](C:\Users\Manel Maria Pinto\Desktop\Environmental-Enrichment-Octopus\Graphs\graph7.PNG)
 *Interaction with items for the first 10 mins of being added to the aquarium and 30 minutes later. The graphs represent time spent interacting with each item added. The columns represent the average with bars representing standard error. Significant differences obtained in the Wilcoxon Test are represented by * p < 0,05; ** - p < 0,01; *** - p < 0,001. ns - indicates non-significant differences.*
 
 ## 3.7	Item Preference
 
 ### **...TRANSLATION IN PROGRESS...**
 
-![](Graphs\graph8.PNG)
+![](C:\Users\Manel Maria Pinto\Desktop\Environmental-Enrichment-Octopus\Graphs\graph8.PNG)
 *Average interaction time with the different added items.The graphs represent time spent interacting with each item. The columns represent the average with bars representing standard error. Significant differences obtained in the Kruskal-Wallis test are represented by * p < 0,05; ** - p < 0,01; *** - p < 0,001. ns - indicates non-significant differences.*
 
 ## 3.8 Spacial Distribution
@@ -138,7 +154,7 @@ Enrichment seems to have a positive impact on the well-being of the octopus at S
 
 |          |          |
 | ---------| -------- |
-|![](Graphs\graph9.PNG)  |  ![](Graphs\graph10.PNG)|
+|![](C:\Users\Manel Maria Pinto\Desktop\Environmental-Enrichment-Octopus\Graphs\graph9.PNG)  |  ![](C:\Users\Manel Maria Pinto\Desktop\Environmental-Enrichment-Octopus\Graphs\graph10.PNG)|
 
 *A - Aerial view of aquarium and division in zones; B- Spacial ocupation with and without enrichment.*
 
